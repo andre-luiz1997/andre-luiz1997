@@ -28,7 +28,7 @@ Currently I have professional experience in many projects regarding the Martech 
 <font size="1">*2019/2020*</font>
  * <font size="3"> Computer Networks and Security International Class</font>
 	*  <font size="2"> 1 year theoretical classes + 4 month internship with classes in english with international students from 10 different countries </font>
-	* 
+	
 📌 🇧🇷 **CEFET-MG** 
 <font size="1">*Undergraduation Couse at Computer Engineering*</font>
 <font size="1">*2015-2021*</font>
