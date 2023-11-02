@@ -1,6 +1,6 @@
 # Welcome to my profile!👋
 
-Hi! I'm **André Luiz**, brazilian, Computer Engineer graduated in CEFET-MG, Brazil. I've been studying Programming and Software Engineering for 7 years now, and I've been working with that for 2 years, mainly as a full-stack web developer. Check below my profile! 💻
+Hi! I'm **André Luiz**, brazilian, Computer Engineer graduated in CEFET-MG, Brazil. I've been studying Programming and Software Engineering for 8 years now, and I've been working with that for 4 years, mainly as a full-stack web developer. Check below my profile! 💻
 
 
 
@@ -14,6 +14,12 @@ Currently I have professional experience in many projects regarding the Martech 
 ![image](https://img.shields.io/badge/-Node_JS-darkgreen?logo=Node.js&style=for-the-badge&logoColor=white)&nbsp;![image](https://img.shields.io/badge/-React_Native-blue?logo=REACT&style=for-the-badge&logoColor=white)&nbsp;![image](https://img.shields.io/badge/-React-black?logo=REACT&style=for-the-badge)&nbsp;![image](https://img.shields.io/badge/-Mongo_DB-success?logo=MongoDB&style=for-the-badge&logoColor=white)&nbsp;![image](https://img.shields.io/badge/-Figma-pink?logo=Figma&style=for-the-badge&logoColor=black)
 
 ## 🌎Previous Experience
+
+📌 🇧🇷 **FIAP** 
+<font size="1">*PhD in Software Engineering*</font>
+<font size="1">*2023 - On Work*</font>
+ * <font size="3">  Focused on software engineering with clean architecture and code quality, this course also presents CI/CD techniques, Dockerization and Kubernetes, microservices, project patterns (SOLID, TDD, DDD) and data security </font>
+
 📌 🇧🇷 **AppMarketing** 
 <font size="1">*Martech and Fintech Company*</font>
 <font size="1">*2020 - On Work*</font>
@@ -25,12 +31,12 @@ Currently I have professional experience in many projects regarding the Martech 
 
 📌 🇫🇷 **IUT1 - Université Grenoble Alpes** 
 <font size="1">*License Professionelle (BAC+3)*</font>
-<font size="1">*2019/2020*</font>
+<font size="1">*2019 - 2020*</font>
  * <font size="3"> Computer Networks and Security International Class</font>
 	*  <font size="2"> 1 year theoretical classes + 4 month internship with classes in english with international students from 10 different countries </font>
 	
 📌 🇧🇷 **CEFET-MG** 
 <font size="1">*Undergraduation Couse at Computer Engineering*</font>
-<font size="1">*2015-2021*</font>
+<font size="1">*2015 - 2021*</font>
  * <font size="3"> Computer Engineering Class</font>
 	*  <font size="2"> 5 year theoretical classes + 3 month internship </font>
